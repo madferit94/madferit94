@@ -1,40 +1,51 @@
-# 안녕하세요, 엄민섭입니다 👋
+# 엄민섭 · 데이터 분석가
 
 [English](README.md) · **한국어**
 
-**데이터 분석가** · 데이터 품질·금융 운영 · 스포츠 분석
+**데이터를 믿기 전에 먼저 맞춰 봅니다.** 은행에서 거래 기록과 환율을 대조하고, 축구 경기 데이터를 한 줄씩 검수하면서 좋은 분석은 정확한 숫자에서 시작한다는 것을 배웠습니다. 이 습관을 스포츠 AI·빅데이터 석사 과정과, 코드·검증·한계를 함께 공개하는 분석 프로젝트로 이어 가고 있습니다.
 
-축구와 여러 스포츠에 대한 질문을 다시 실행할 수 있는 분석으로 만들고, 데이터를 믿기 전에 먼저 점검하는 일을 중요하게 생각합니다. 스포츠 AI·빅데이터 석사, 축구 이벤트 데이터 품질 검수, 은행 운영(대사·환율 확인) 경험을 함께 가지고 있습니다.
+📍 서울 · 데이터 분석가 포지션 구직 중 · [LinkedIn](https://www.linkedin.com/in/minseob-eom-97b410375/)
 
-📍 서울 · 데이터 분석가 포지션 구직 중 (출근·하이브리드·원격)
+## 핵심 역량
 
-## 대표 프로젝트
+### 1. 데이터 검증·대사
+숫자를 보고서에 넣기 전에 원본과 맞춰 보고, 맞지 않는 부분은 기록으로 남깁니다.
 
-| 프로젝트 | 답하려는 질문 |
-|---|---|
-| [Beyond Goals — 빅5 리그 공격수 프로필](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles) | 공격수 유형별로 슈팅 수, 기회의 질, 결정력은 어떻게 다른가? |
-| [유럽 5대 리그 경기 운영 유형 분석](https://github.com/madferit94/football-match-profiles) | 석사 연구: 리그와 시즌별로 어떤 경기 운영 유형이 나타나는가? |
-| [K리그1 2026: 월드컵 휴식기 분석](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break) | 휴식기 이후 리그와 구단 기록은 어떻게 달라졌나? |
-| [MatchLab](https://github.com/madferit94/matchlab) | 축구·F1 기록 조회, 자연어 지표 질문과 차트를 제공하는 웹 서비스 ([사이트](https://matchlab-zeta.vercel.app/)) |
+- **실무:** 은행 운영 2년(대사, 환율 확인), BEPRO 축구 경기 데이터 입력·검수 2년.
+- **[Beyond Goals](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles):** 원본 중복 12행을 따로 분리하고, 원본 파일 1,018개를 모두 확인했으며, 데이터·분석·발표자료 사이 점검 77개를 통과했습니다.
+- **[K리그 2026](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break):** 원본 득점 항목이 7개 구단에서 최종 스코어와 맞지 않는 것을 찾아, 최종 스코어를 쓰고 그 이유를 기록했습니다.
+- **[석사 연구](https://github.com/madferit94/football-match-profiles):** 저장 데이터를 다시 점검하고, 두 군집의 사례 수가 논문 표와 다른 점을 숨기지 않고 공개했습니다.
 
-F1, NFL, 2026 월드컵 분석은 [All Sports Analytics](https://github.com/madferit94/all-sports-analytics)에 모아 두었습니다.
+### 2. 질문에서 출발하는 스포츠 분석
+분명한 질문 하나에서 시작해 맞는 지표를 고르고, 결과가 증명하지 못하는 것까지 적습니다.
+
+- **[Beyond Goals](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles):** 공격수 181명, 페널티 제외 슈팅 8,847개로 슈팅 수·기회의 질·결정력을 나눠 비교했습니다.
+- **[K리그 2026](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break):** 월드컵 휴식기 전후 180경기를 비교하고, 세 구단 사례를 분석했습니다.
+- **[석사 연구](https://github.com/madferit94/football-match-profiles):** 유럽 5대 리그 6시즌 경기기록을 2단계 K-means로 4개 경기 운영 유형으로 나누고, SHAP으로 설명했습니다.
+
+### 3. AI 에이전트로 분석 도구 만들기
+AI 에이전트로 분석을 사람이 쓸 수 있는 도구로 만들고, 테스트와 기능 명세로 품질을 지킵니다.
+
+- **[MatchLab](https://github.com/madferit94/matchlab):** 지표를 말로 물으면 차트로 보여주는 축구·F1 웹 서비스입니다 ([사이트](https://matchlab-zeta.vercel.app/)).
+- **[사주 서비스](https://github.com/madferit94/saju-service):** 기능 명세를 하나씩 구현하고 자동 테스트로 확인하고 있습니다 (44개 중 37개 완료).
+- **[Project Team](https://github.com/madferit94/project-team):** 조사·근거 검증·쉬운 글쓰기를 맡는 10개 역할의 에이전트 팀입니다.
+
+## 이렇게 기여할 수 있습니다
+
+- 숫자가 보고서나 대시보드에 들어가기 전에 원본과 대조합니다.
+- 일회성 질문을 다른 사람도 다시 실행할 수 있는 분석으로 만들고, 한계를 함께 적습니다.
+- 반복되는 분석과 보고를 AI 에이전트로 자동화하되, 점검 단계를 함께 넣습니다.
+
+## 경력·학력
+
+| 기간 | 역할 | 관련 역량 |
+|---|---|---|
+| 2024.06 – 2026.06 | 글로벌 은행 운영 보조 · Adecco (계약직) | 1 |
+| 2022.01 – 2024.02 | 프리랜서 데이터 분석(축구 경기 데이터) · BEPRO | 1 · 2 |
+| 2023.04 – 2023.12 | 스포츠클럽 매니저 · 안양시체육회 | 기록·예산 관리 |
+| 2017.04 – 2018.06 | 품질 검사 · 제임스텍 (산업기능요원) | 1 |
+| 2024.03 – 2026.08 | 스포츠AI·빅데이터 석사 · 한국체육대학교 | 2 |
 
 ## 그 밖의 작업
 
-- [SQL 학습 기록](https://github.com/madferit94/sql-learning-journal) — 축구·이커머스·거래 데이터로 푼 SQL 60문제
-- [Project Team](https://github.com/madferit94/project-team) — Codex·Claude Code용 역할별 AI 에이전트 팀
-- [사주 서비스](https://github.com/madferit94/saju-service) · [오디세우스: 잃어버린 세계](https://github.com/madferit94/odysseus-lost-worlds) — AI 에이전트와 함께 만든 연습 프로젝트
-
-## 사용 도구
-
-`Python` · `SQL` · `Pandas` · `Scikit-learn` · `Jupyter` · `Tableau` · `Streamlit` · `JavaScript`
-
-## 일하는 방식
-
-- 분명한 질문에서 시작하고, 방법과 한계를 함께 적습니다.
-- 결론을 내기 전에 건수, 결합, 합계를 먼저 확인합니다.
-- AI 도구를 쓴 사실을 밝히고, 결과는 데이터와 대조해 확인합니다.
-
-## 연락처
-
-[LinkedIn](https://www.linkedin.com/in/minseob-eom-97b410375/)
+[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1·NFL·2026 월드컵) · [SQL 학습 기록](https://github.com/madferit94/sql-learning-journal) (60문제) · [오디세우스: 잃어버린 세계](https://github.com/madferit94/odysseus-lost-worlds) (브라우저 게임)

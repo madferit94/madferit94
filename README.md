@@ -1,40 +1,51 @@
-# Hi, I'm Minseob Eom 👋
+# Minseob Eom · Data Analyst
 
 **English** · [한국어](README.ko.md)
 
-**Data Analyst** · Data Quality & Financial Operations · Sports Analytics
+**I check data before I trust it.** Reconciling bank records and FX rates, then checking football event data line by line, taught me that a good analysis starts with the right numbers. I now bring that habit to sports analytics, from a master's in Sports AI and Big Data to public projects that show their code, checks and limits.
 
-I turn questions about football and other sports into reproducible analyses, and I care about checking data before trusting it. My background combines a master's degree in Sports AI and Big Data, football event-data quality checks, and banking operations work such as reconciliation and FX rate checks.
+📍 Seoul, South Korea · Open to Data Analyst roles · [LinkedIn](https://www.linkedin.com/in/minseob-eom-97b410375/)
 
-📍 Seoul, South Korea · Open to Data Analyst roles (on-site, hybrid or remote)
+## Core strengths
 
-## Featured projects
+### 1. Data validation and reconciliation
+Before a number goes into a report, I match it against its source and write down what does not fit.
 
-| Project | What it answers |
-|---|---|
-| [Beyond Goals — Big Five striker profiles](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles) | How do strikers differ in shot volume, chance quality and finishing? |
-| [Match-record profiles across Europe's Big Five](https://github.com/madferit94/football-match-profiles) | Master's research: what types of match play appear across leagues and seasons? |
-| [K League 1 2026: World Cup break](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break) | What changed in league and club statistics after the break? |
-| [MatchLab](https://github.com/madferit94/matchlab) | A web service for football and F1 records, plain-language metric queries and charts ([live site](https://matchlab-zeta.vercel.app/)) |
+- **Work:** 2 years of banking operations (reconciliation, FX rate checks) and 2 years of football event-data entry and quality checks at BEPRO.
+- **[Beyond Goals](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles):** set aside 12 duplicated source rows, verified all 1,018 original source files, and passed 77 checks across the data, analysis and slides.
+- **[K League 2026](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break):** found a source goal field that did not match final scores for 7 clubs, so I used final scores and recorded why.
+- **[Master's research](https://github.com/madferit94/football-match-profiles):** re-checked the saved data and openly listed where two cluster counts differ from the thesis table.
 
-More analyses (F1, NFL, 2026 World Cup) are collected in [All Sports Analytics](https://github.com/madferit94/all-sports-analytics).
+### 2. Question-driven sports analytics
+I start from one clear question, choose a measure that fits it, and state what the result cannot prove.
 
-## Other work
+- **[Beyond Goals](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles):** 181 strikers and 8,847 non-penalty shots, separating shot volume, chance quality and finishing.
+- **[K League 2026](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break):** 180 matches before and after the World Cup break, with three club case studies.
+- **[Master's research](https://github.com/madferit94/football-match-profiles):** six seasons of Europe's Big Five leagues, a two-step K-means model giving four match-play types, explained with SHAP.
 
-- [SQL learning journal](https://github.com/madferit94/sql-learning-journal) — 60 SQL exercises with football, e-commerce and transaction data
-- [Project Team](https://github.com/madferit94/project-team) — a role-based AI agent team for Codex and Claude Code
-- [Saju Service](https://github.com/madferit94/saju-service) · [Odysseus: Lost Worlds](https://github.com/madferit94/odysseus-lost-worlds) — practice projects built with AI agents
+### 3. Building analysis tools with AI agents
+I use AI agents to turn analysis into tools people can use, and I keep tests and written specs as the guardrails.
 
-## Tools
+- **[MatchLab](https://github.com/madferit94/matchlab):** a live football and F1 web service where you ask for a metric in plain language and get a chart ([site](https://matchlab-zeta.vercel.app/)).
+- **[Saju Service](https://github.com/madferit94/saju-service):** built one feature at a time from written specs (37 of 44 done so far), each checked with automated tests.
+- **[Project Team](https://github.com/madferit94/project-team):** a 10-role agent team for research, evidence checks and plain-language writing.
 
-`Python` · `SQL` · `Pandas` · `Scikit-learn` · `Jupyter` · `Tableau` · `Streamlit` · `JavaScript`
+## How I can contribute
 
-## How I work
+- Reconcile figures with their source before they reach a report or dashboard.
+- Turn one-off questions into analyses that others can rerun, with the limits written down.
+- Automate repeated analysis and reporting with AI agents, with checks built in.
 
-- Start from a clear question, and write down the method and its limits.
-- Check counts, joins and totals before drawing conclusions.
-- Use AI tools openly, and verify their output against the data.
+## Experience and education
 
-## Contact
+| Period | Role | Strength |
+|---|---|---|
+| 2024.06 – 2026.06 | Global Banking Operations Assistant · Adecco (contract) | 1 |
+| 2022.01 – 2024.02 | Freelance Data Analyst (football event data) · BEPRO | 1 · 2 |
+| 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | records, budget |
+| 2017.04 – 2018.06 | Quality inspection · James Tech (industrial technical personnel) | 1 |
+| 2024.03 – 2026.08 | M.S. in Sports AI and Big Data · Korea National Sport University | 2 |
 
-[LinkedIn](https://www.linkedin.com/in/minseob-eom-97b410375/)
+## More work
+
+[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1, NFL, 2026 World Cup) · [SQL learning journal](https://github.com/madferit94/sql-learning-journal) (60 exercises) · [Odysseus: Lost Worlds](https://github.com/madferit94/odysseus-lost-worlds) (browser game)
