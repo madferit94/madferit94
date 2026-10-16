@@ -42,7 +42,7 @@ I use AI agents to turn analysis into tools people can use, and I keep tests and
 |---|---|---|
 | 2024.06 – 2026.06 | Global Banking Operations Assistant · Adecco (contract) | 1 |
 | 2022.01 – 2024.02 | Freelance Data Analyst (football event data) · BEPRO | 1 · 2 |
-| 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | records, budget |
+| 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | 1 |
 | 2017.04 – 2018.06 | Quality inspection · James Tech (industrial technical personnel) | 1 |
 | 2024.03 – 2026.08 | M.S. in Sports AI and Big Data · Korea National Sport University | 2 |
 
