@@ -2,7 +2,7 @@
 
 **English** · [한국어](README.ko.md)
 
-**I check data before I trust it.** Reconciling bank records and FX rates, then checking football event data line by line, taught me that a good analysis starts with the right numbers. I now bring that habit to sports analytics, from a master's in Physical Education (Sports AI & Big Data major) to public projects that show their code, checks and limits.
+**I check data before I trust it.** Reconciling bank records and FX rates, then checking football event data line by line, taught me that a good analysis starts with the right numbers. I now bring that habit to sports analytics, from a master's degree in Sport AI and Big Data to public projects that show their code, checks and limits.
 
 📍 Seoul, South Korea · Open to Data Analyst roles · [LinkedIn](https://www.linkedin.com/in/minseob-eom-97b410375/)
 
@@ -46,7 +46,7 @@ These projects were built during the **Salesforce Tableau AI program (cohort 3, 
 | 2022.01 – 2024.02 | Freelance Data Analyst (football event data) · BEPRO | 1 · 2 |
 | 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | 1 |
 | 2017.04 – 2018.06 | Quality inspection · James Tech (industrial technical personnel) | 1 |
-| 2024.03 – 2026.08 | Master of Physical Education (Sports AI & Big Data major) · Korea National Sport University | 2 |
+| 2024.03 – 2026.08 | Master's Degree, Sport AI and Big Data · Graduate School of Sport Convergence, Korea National Sport University | 2 |
 
 ## More work
 
