@@ -25,10 +25,12 @@ I start from one clear question, choose a measure that fits it, and state what t
 
 ### 3. Building analysis tools with AI agents
 I use AI agents to turn analysis into tools people can use, and I keep tests and written specs as the guardrails.
+These projects were built during the **Salesforce Tableau AI program (cohort 3, 2026)** and I keep developing them.
 
 - **[MatchLab](https://github.com/madferit94/matchlab):** a live football and F1 web service where you ask for a metric in plain language and get a chart ([site](https://matchlab-zeta.vercel.app/)).
 - **[Saju Service](https://github.com/madferit94/saju-service):** built one feature at a time from written specs (37 of 44 done so far), each checked with automated tests.
 - **[Project Team](https://github.com/madferit94/project-team):** a 10-role agent team for research, evidence checks and plain-language writing.
+- **[Odysseus: Lost Worlds](https://github.com/madferit94/odysseus-lost-worlds):** a browser action game with opt-in play analytics.
 
 ## How I can contribute
 
@@ -48,4 +50,4 @@ I use AI agents to turn analysis into tools people can use, and I keep tests and
 
 ## More work
 
-[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1, NFL, 2026 World Cup) · [SQL learning journal](https://github.com/madferit94/sql-learning-journal) (60 exercises) · [Odysseus: Lost Worlds](https://github.com/madferit94/odysseus-lost-worlds) (browser game)
+[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1, NFL, 2026 World Cup) · [SQL learning journal](https://github.com/madferit94/sql-learning-journal) (60 exercises)

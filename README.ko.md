@@ -25,10 +25,12 @@
 
 ### 3. AI 에이전트로 분석 도구 만들기
 AI 에이전트로 분석을 사람이 쓸 수 있는 도구로 만들고, 테스트와 기능 명세로 품질을 지킵니다.
+아래 프로젝트는 **Salesforce Tableau AI 3기(2026)** 과정에서 만들었고, 계속 개선하고 있습니다.
 
 - **[MatchLab](https://github.com/madferit94/matchlab):** 지표를 말로 물으면 차트로 보여주는 축구·F1 웹 서비스입니다 ([사이트](https://matchlab-zeta.vercel.app/)).
 - **[사주 서비스](https://github.com/madferit94/saju-service):** 기능 명세를 하나씩 구현하고 자동 테스트로 확인하고 있습니다 (44개 중 37개 완료).
 - **[Project Team](https://github.com/madferit94/project-team):** 조사·근거 검증·쉬운 글쓰기를 맡는 10개 역할의 에이전트 팀입니다.
+- **[오디세우스: 잃어버린 세계](https://github.com/madferit94/odysseus-lost-worlds):** 동의한 플레이 기록만 분석하는 브라우저 액션 게임입니다.
 
 ## 이렇게 기여할 수 있습니다
 
@@ -48,4 +50,4 @@ AI 에이전트로 분석을 사람이 쓸 수 있는 도구로 만들고, 테�
 
 ## 그 밖의 작업
 
-[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1·NFL·2026 월드컵) · [SQL 학습 기록](https://github.com/madferit94/sql-learning-journal) (60문제) · [오디세우스: 잃어버린 세계](https://github.com/madferit94/odysseus-lost-worlds) (브라우저 게임)
+[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1·NFL·2026 월드컵) · [SQL 학습 기록](https://github.com/madferit94/sql-learning-journal) (60문제)
