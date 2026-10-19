@@ -11,7 +11,7 @@
 ### 1. Data validation and reconciliation
 Before a number goes into a report, I match it against its source and write down what does not fit.
 
-- **Work:** 2 years of banking operations (reconciliation, FX rate checks) and 2 years of football event-data entry and quality checks at BEPRO.
+- **Work:** 2 years of daily reconciliation and FX rate checks at Bank of America Seoul Branch (via Adecco) and 2 years of football event-data entry and quality checks at BEPRO.
 - **[Beyond Goals](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles):** set aside 12 duplicated source rows, verified all 1,018 original source files, and passed 77 checks across the data, analysis and slides.
 - **[K League 2026](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break):** found a source goal field that did not match final scores for 7 clubs, so I used final scores and recorded why.
 - **[Master's research](https://github.com/madferit94/football-match-profiles):** re-checked the saved data and openly listed where two cluster counts differ from the thesis table.
@@ -42,7 +42,7 @@ These projects were built during the **Salesforce Tableau AI program (cohort 3, 
 
 | Period | Role | Strength |
 |---|---|---|
-| 2024.06 – 2026.06 | Global Banking Operations Assistant · Adecco (contract) | 1 |
+| 2024.06 – 2026.06 | Messenger & Operations Support · Adecco (contract, dispatched to Bank of America Seoul Branch) | 1 |
 | 2022.01 – 2024.02 | Freelance Data Analyst (football event data) · BEPRO | 1 · 2 |
 | 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | 1 |
 | 2017.04 – 2018.06 | Quality inspection · James Tech (industrial technical personnel) | 1 |
