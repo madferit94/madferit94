@@ -47,6 +47,7 @@ These projects were built during the **[Salesforce] AI & Data Specialist Program
 | 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | 1 |
 | 2017.04 – 2018.06 | Quality inspection · James Tech (industrial technical personnel) | 1 |
 | 2024.03 – 2026.08 | Master's Degree, Sport AI and Big Data · Graduate School of Sport Convergence, Korea National Sport University | 2 |
+| 2026.09 – 2026.12 | [Salesforce] AI & Data Specialist Program, S.T.A.Track cohort 3 · Korea Chamber of Commerce and Industry (expected completion) | 3 |
 
 ## More work
 
