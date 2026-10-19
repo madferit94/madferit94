@@ -50,4 +50,4 @@ AI 에이전트로 분석을 사람이 쓸 수 있는 도구로 만들고, 테�
 
 ## 그 밖의 작업
 
-[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1·NFL·2026 월드컵) · [SQL 학습 기록](https://github.com/madferit94/sql-learning-journal) (60문제)
+[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1·NFL·2026 월드컵) · [SQL 학습 기록](https://github.com/madferit94/sql-learning-journal) (85문제)

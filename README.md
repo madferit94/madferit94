@@ -50,4 +50,4 @@ These projects were built during the **Salesforce Tableau AI program (cohort 3, 
 
 ## More work
 
-[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1, NFL, 2026 World Cup) · [SQL learning journal](https://github.com/madferit94/sql-learning-journal) (60 exercises)
+[All Sports Analytics](https://github.com/madferit94/all-sports-analytics) (F1, NFL, 2026 World Cup) · [SQL learning journal](https://github.com/madferit94/sql-learning-journal) (85 exercises)
