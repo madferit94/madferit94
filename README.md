@@ -42,7 +42,7 @@ These projects were built during the **[Salesforce] AI & Data Specialist Program
 
 | Period | Role | Strength |
 |---|---|---|
-| 2024.06 – 2026.06 | Messenger & Operations Support · Adecco (contract, dispatched to Bank of America Seoul Branch) | 1 |
+| 2024.06 – 2026.06 | Operations Support / Messenger · Adecco (contract, dispatched to Bank of America Seoul Branch) | 1 |
 | 2022.01 – 2024.02 | Freelance Data Analyst (football event data) · BEPRO | 1 · 2 |
 | 2023.04 – 2023.12 | Sports Club Manager · Anyang City Sports Council | 1 |
 | 2017.04 – 2018.06 | Quality inspection · James Tech (industrial technical personnel) | 1 |
