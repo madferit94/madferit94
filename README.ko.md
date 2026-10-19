@@ -8,10 +8,10 @@
 
 ## 핵심 역량
 
-### 1. 데이터 검증·대사
+### 1. 데이터 검증·대조
 숫자를 보고서에 넣기 전에 원본과 맞춰 보고, 맞지 않는 부분은 기록으로 남깁니다.
 
-- **실무:** Bank of America 서울지점 파견 2년(매일 대사, 환율 확인), BEPRO 축구 경기 데이터 입력·검수 2년.
+- **실무:** Bank of America 서울지점 파견 2년(매일 거래내역 대조, 환율 확인), BEPRO 축구 경기 데이터 입력·검수 2년.
 - **[Beyond Goals](https://github.com/madferit94/all-sports-analytics/tree/main/football/big-five-striker-profiles):** 원본 중복 12행을 따로 분리하고, 원본 파일 1,018개를 모두 확인했으며, 데이터·분석·발표자료 사이 점검 77개를 통과했습니다.
 - **[K리그 2026](https://github.com/madferit94/all-sports-analytics/tree/main/football/kleague-2026-world-cup-break):** 원본 득점 항목이 7개 구단에서 최종 스코어와 맞지 않는 것을 찾아, 최종 스코어를 쓰고 그 이유를 기록했습니다.
 - **[석사 연구](https://github.com/madferit94/football-match-profiles):** 저장 데이터를 다시 점검하고, 두 군집의 사례 수가 논문 표와 다른 점을 숨기지 않고 공개했습니다.
