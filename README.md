@@ -25,7 +25,7 @@ I start from one clear question, choose a measure that fits it, and state what t
 
 ### 3. Building analysis tools with AI agents
 I use AI agents to turn analysis into tools people can use, and I keep tests and written specs as the guardrails.
-These projects were built during the **Salesforce Tableau AI program (cohort 3, 2026)** and I keep developing them.
+These projects were built during the **[Salesforce] AI & Data Specialist Program, S.T.A.Track (cohort 3, 2026)** and I keep developing them.
 
 - **[MatchLab](https://github.com/madferit94/matchlab):** a live football and F1 web service where you ask for a metric in plain language and get a chart ([site](https://matchlab-zeta.vercel.app/)).
 - **[Saju Service](https://github.com/madferit94/saju-service):** built one feature at a time from written specs (37 of 44 done so far), each checked with automated tests.
